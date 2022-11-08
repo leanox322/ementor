@@ -1,0 +1,328 @@
+@media screen and (max-width: 1400px) {
+  .container {
+    width: 90%;
+  }
+  .header-logos {
+    left: 10%;
+  }
+  .header-left-img {
+    left: 10%;
+  }
+  .header-right-img {
+    left: 72%;
+  }
+  .scroll-down {
+    left: 90.4%;
+  }
+  .top-line {
+    padding-top: 100px;
+  }
+  .footer-wrapper {
+    align-items: flex-start;
+  }
+  .footer-lists-wrapper {
+    gap: 80px;
+  }
+  .footer-logo-content-wrapper {
+    width: 25%;
+  }
+  .learn-from-thebest-text-wrapper h3 {
+    width: 80%;
+  }
+  .join-us-content-wrapper {
+    width: 43%;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .header-logos {
+    left: 5%;
+  }
+  .header-left-img {
+    left: 5%;
+  }
+  .header-right-img {
+    left: 75%;
+  }
+  .scroll-down {
+    left: 96%;
+  }
+  .footer-lists-wrapper {
+    gap: 45px;
+  }
+  .footer-wrapper {
+    align-items: flex-start;
+  }
+  .footer-logo-content-wrapper {
+    width: 30%;
+  }
+  .top-line {
+    padding-top: 60px;
+  }
+}
+@media screen and (max-width: 992px) {
+  .header {
+    height: 700px;
+  }
+  .bgcolor {
+    height: 500px;
+  }
+  .header-left-img {
+    width: 20%;
+  }
+  .header-right-img {
+    width: 20%;
+  }
+  .scroll-down {
+    top: 65%;
+    left: 94%;
+  }
+  .header-logos {
+    width: 2%;
+    gap: 20px;
+  }
+  .header-content-wrapper h1 {
+    font-size: 45px;
+  }
+  .main-stats-wrapper h2 {
+    font-size: 45px;
+  }
+  .learn-from-thebest-text-wrapper h2 {
+    font-size: 45px;
+  }
+  .learning-format-text-wrapper h2 {
+    font-size: 40px;
+  }
+  .learning-format-text-wrapper h3 {
+    width: 100%;
+  }
+  .popular-courses-img-wrapper img {
+    width: 25%;
+  }
+  .popular-coursesh2 {
+    font-size: 45px;
+  }
+  .popular-courses-section {
+    padding-bottom: 10px;
+  }
+  .join-us-content-wrapper h2 {
+    font-size: 40px;
+  }
+  .top-line {
+    padding-top: 0px;
+  }
+  .footer-lists-wrapper {
+    gap: 35px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 95%;
+  }
+  .hover-underline-animation {
+    font-size: 14px;
+  }
+  .header-content-wrapper img {
+    padding-bottom: 10px;
+  }
+  .header-content-wrapper h1 {
+    font-size: 40px;
+  }
+  .header-content-wrapper h2 {
+    padding-bottom: 30px;
+  }
+  .orange-btn {
+    width: 200px;
+    height: 50px;
+  }
+  .orange-btn a {
+    font-size: 14px;
+  }
+  .main-stats-wrapper h2 {
+    font-size: 40px;
+  }
+  .main-stats-wrapper h3 {
+    width: 80%;
+  }
+  .main-img-grid {
+    row-gap: 20px;
+    column-gap: 20px;
+  }
+  .main-img-grid h3 {
+    padding-top: 10px;
+    font-size: 12px;
+  }
+  .learn-from-thebest-text-wrapper h2 {
+    font-size: 40px;
+  }
+  .learn-from-thebest-text-wrapper h3 {
+    font-size: 14px;
+  }
+  .green-btn {
+    width: 200px;
+    height: 50px;
+  }
+  .green-btn a {
+    font-size: 14px;
+  }
+  .button-padding {
+    padding-top: 15px;
+  }
+  .learn-from-thebest-wrapper {
+    padding-bottom: 100px;
+  }
+  .learning-format-text-wrapper h2 {
+    font-size: 34px;
+  }
+  .learning-format-text-wrapper h3 {
+    font-size: 14px;
+    padding-bottom: 40px;
+  }
+  .popular-coursesh2 {
+    font-size: 40px;
+    padding-top: 100px;
+  }
+  .popular-courses-img-wrapper {
+    padding-bottom: 50px;
+  }
+  .join-us-bg {
+    height: 500px;
+  }
+  .join-us-content-wrapper h2 {
+    font-size: 30px;
+    padding-bottom: 10px;
+  }
+  .join-us-content-wrapper h3 {
+    font-size: 14px;
+    padding-bottom: 30px;
+  }
+  .footer-logo-content-wrapper img {
+    width: 70%;
+  }
+  .footer-wrapper h3 {
+    font-size: 13px;
+    padding-top: 10px;
+  }
+  .footer-lists-wrapper h4 {
+    font-size: 14px;
+    padding-bottom: 15px;
+  }
+  .footer-lists-wrapper li {
+    font-size: 14px;
+  }
+  .footer-lists-wrapper span {
+    font-size: 14px;
+  }
+  .footer-lists-wrapper {
+    gap: 30px;
+  }
+  .footer-span-wrapper {
+    width: 30%;
+  }
+  .footer-wrapper h3 {
+    display: none;
+  }
+  .footer-wrapper {
+    align-items: center;
+    padding-bottom: 30px;
+  }
+  .footer-copyright-wrapper span {
+    font-size: 12px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .header {
+    height: 650px;
+  }
+  .header-left-img {
+    display: none;
+  }
+  .header-right-img {
+    display: none;
+  }
+  .navbar-wrapper ul {
+    gap: 20px;
+  }
+  .header-logos {
+    width: 3%;
+    top: 18%;
+  }
+  .scroll-down {
+    top: 70%;
+  }
+  .main-stats-wrapper {
+    padding-top: 90px;
+    padding-bottom: 90px;
+  }
+  .learn-from-thebest-wrapper {
+    flex-direction: column;
+  }
+  .learn-from-thebest-text-wrapper {
+    text-align: center;
+    padding-bottom: 50px;
+  }
+  .learn-from-thebest-text-wrapper h3 {
+    margin: 0 auto;
+  }
+  .main-img-grid h3 {
+    font-size: 14px;
+  }
+  .learning-format-wrapper img {
+    display: none;
+  }
+  .learning-format-text-wrapper {
+    width: 100%;
+    text-align: center;
+  }
+  .popular-coursesh2 {
+    padding-top: 80px;
+  }
+  .popular-courses-img-wrapper {
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+  }
+  .popular-courses-img-wrapper img {
+    width: 60%;
+  }
+  .join-us-wrapper {
+    width: 100%;
+    justify-content: right;
+  }
+  .join-us-content-wrapper h2 {
+    font-size: 34px;
+  }
+  .join-us-bg {
+    background-size: 155%;
+  }
+  .join-us-content-wrapper {
+    width: 57%;
+  }
+  .footer-wrapper {
+    flex-direction: column;
+    align-items: center;
+  }
+  .footer-img-wrapper {
+    gap: 0px;
+    justify-content: space-between;
+    width: 100%;
+    padding-top: 20px;
+  }
+  .footer-logo-content-wrapper img {
+    width: 100%;
+  }
+  .footer-logo-content-wrapper {
+    padding-bottom: 30px;
+  }
+  .footer-lists-wrapper {
+    gap: 35px;
+  }
+  .footer-copyright-wrapper span {
+    font-size: 10px;
+  }
+  .footer-copyright-span {
+    gap: 20px;
+  }
+}
